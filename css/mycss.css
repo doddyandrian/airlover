@@ -1,0 +1,21 @@
+nav,
+footer {
+  background-color: #141e24;
+}
+.jumbotron,
+.gallery {
+  background-color: #316e7d;
+  padding-top: 4.55rem;
+}
+.about,
+.contact {
+  padding-top: 4.5rem;
+  background-color: #aaddff;
+}
+.contact .container .card,
+.about .container .card,
+.about .container .card table {
+  padding: 1rem;
+  color: aliceblue;
+  background-color: #316e7d;
+}
